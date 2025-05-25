@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+ffmpeg-python==0.2.0
+telethon==1.36.0
+pyrogram==2.0.106
