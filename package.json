@@ -1,0 +1,10 @@
+{
+  "name": "telegram-video-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for video resolution conversion",
+  "scripts": {
+    "start": "python bot.py"
+  },
+  "keywords": ["telegram", "bot", "video", "ffmpeg", "railway"],
+  "author": "moloord21"
+}
